@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Clay-Rasmussen
+# 👋 Hi, I’m @Clay-Rasmussen
+## About Me
 - 👀 I’m interested in fixing computers!
-- 🌱 I’m currently learning Computer Information Systems in college.
+- 🌱 I’m currently studying Computer Information Systems.
 - 😀 Experience in C++ and learning Java.
 - 📫 How to reach me email: clrasm02@wsc.edu
 
