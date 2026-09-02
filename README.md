@@ -13,11 +13,8 @@
 
 ---
 
-## 🚀 Current Focus
-
-- Strengthening object-oriented programming concepts  
-- Building academic and personal programming projects  
-- Expanding my coding knowledge
+## 🚀 Want to see my Projects?
+Check out my [DeveloperPortfolio](https://github.com/Clay-Rasmussen/Developer-Portfolio-Gateway)
 
 ---
 
